@@ -31,10 +31,10 @@
 > Summarize the integrated organ systems approach of medical physiology
 
 It's a science related to physics.
-The science that aims to understand the mechanisms of living systems, from the molecular to the complex structure of the body.
-A science that studies higher forms of life.
-The science that aims to understanding how the body gets sick.
-The science exclusively aimed at understanding how organs relate to each other.
+- The science that aims to understand the mechanisms of living systems, from the molecular to the complex structure of the body.
+- A science that studies higher forms of life.
+- The science that aims to understanding how the body gets sick.
+- The science exclusively aimed at understanding how organs relate to each other.
 
 Answer: B
 
